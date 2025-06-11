@@ -45,12 +45,12 @@
 #### Passo 4 - resolvendo o b.o
 - Voltaremos ao bucket, selecionar o objeto (pasta) > ir em Ações e depois "tornar público usando ACL"
 ![image](https://github.com/user-attachments/assets/5f693475-3beb-4d7e-a981-07476bf8d912)
-> tornar público.
+- tornar público.
 
 #### Passo 5 - entrar na pasta, verificar se o index.html está público e com as regras de leitura ativada. Após isso é só copiar a url dele e tentar novamente.
 ![image](https://github.com/user-attachments/assets/fd363f8b-feae-4ba2-8028-4c7e2d7842fa)
 
-stau focused!!!
+> stay focused!!!
 
 
 
