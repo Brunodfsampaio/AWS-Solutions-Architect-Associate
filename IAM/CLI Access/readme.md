@@ -44,7 +44,7 @@
 ![image](https://github.com/user-attachments/assets/04e21f7a-c50d-40b7-a6da-03f61eeb3455)
 
 ### Passo 4 - extra no localhost
-- as credenciais ficarão salvas no seu pc.
+- as credenciais ficarão salvas no seu pc, dentro da pasta .AWS:
 
 ![image](https://github.com/user-attachments/assets/cc2b4eba-38ba-412b-88a2-29b8cd80f698)
 ![image](https://github.com/user-attachments/assets/c4d95763-07ab-4270-ba03-6d9dc6136444)
